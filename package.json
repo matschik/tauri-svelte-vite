@@ -1,0 +1,17 @@
+{
+  "name": "tauri-svelte-vite",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "dev:tauri": "tauri dev"
+  },
+  "devDependencies": {
+    "svite": "^0.2.3",
+    "tauri": "^0.9.1",
+    "vite": "^1.0.0-beta.12"
+  },
+  "dependencies": {
+    "svelte": "^3.24.0"
+  }
+}
