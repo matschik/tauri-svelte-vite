@@ -7,7 +7,7 @@
     "dev:tauri": "tauri dev"
   },
   "devDependencies": {
-    "svite": "^0.2.3",
+    "svite": "^0.4.1",
     "tauri": "^0.9.1",
     "vite": "^1.0.0-beta.12"
   },
